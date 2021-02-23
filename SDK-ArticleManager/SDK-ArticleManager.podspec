@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                  = 'SDK-ArticleManager'
-  s.version               = '0.1.0'
+  s.version               = '0.1.1'
   s.summary               = 'Pod ArticleManager with CoreData'
   s.description           = "Creating, removing, search by word - ArticleManager with CoreData"
   s.homepage              = 'https://github.com/khaniche/SDK-ArticleManager'

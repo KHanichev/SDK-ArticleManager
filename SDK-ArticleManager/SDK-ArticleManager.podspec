@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                  = 'SDK-ArticleManager'
-  s.version               = '0.1.0'
+  s.version               = '0.1.1'
   s.summary               = 'Pod ArticleManager with CoreData'
   s.description           = "Creating, removing, search by word - ArticleManager with CoreData"
   s.homepage              = 'https://github.com/khaniche/SDK-ArticleManager'
@@ -9,6 +9,6 @@ Pod::Spec.new do |s|
   s.source                = { :git => 'https://github.com/khaniche/SDK-ArticleManager.git', :tag => s.version.to_s }
   s.ios.deployment_target = '13.0'
   s.swift_version         = '5.0'
-  s.source_files          = 'SDK-ArticleManager/Sources/**/*'
+  s.source_files          = 'SDK-ArticleManager/Sources/**/*.swift'
   s.frameworks            = 'UIKit', 'CoreData'
 end

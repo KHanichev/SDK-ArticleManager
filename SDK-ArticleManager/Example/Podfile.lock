@@ -1,0 +1,16 @@
+PODS:
+  - SDK-ArticleManager (0.1.0)
+
+DEPENDENCIES:
+  - SDK-ArticleManager (from `../`)
+
+EXTERNAL SOURCES:
+  SDK-ArticleManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SDK-ArticleManager: ab89a5502ee827a989a716cad03ff109856c0f0a
+
+PODFILE CHECKSUM: 1e483aa14240031ed43b71505b4758cd9746b8ec
+
+COCOAPODS: 1.10.1

@@ -1,0 +1,6 @@
+framework module SDK_ArticleManager {
+  umbrella header "SDK-ArticleManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

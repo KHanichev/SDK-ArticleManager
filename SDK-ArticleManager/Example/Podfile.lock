@@ -1,5 +1,5 @@
 PODS:
-  - SDK-ArticleManager (0.1.0)
+  - SDK-ArticleManager (0.1.1)
 
 DEPENDENCIES:
   - SDK-ArticleManager (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SDK-ArticleManager: ab89a5502ee827a989a716cad03ff109856c0f0a
+  SDK-ArticleManager: 7ff242b01cd92da3ce1e8d7548d7ca9533f7d03d
 
 PODFILE CHECKSUM: 1e483aa14240031ed43b71505b4758cd9746b8ec
 

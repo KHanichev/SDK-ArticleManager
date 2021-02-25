@@ -1,8 +1,8 @@
 {
   "name": "SDK-ArticleManager",
-  "version": "0.1.0",
-  "summary": "A short description of SDK-ArticleManager.",
-  "description": "TODO: Add long description of the pod here.",
+  "version": "0.1.1",
+  "summary": "Pod ArticleManager with CoreData",
+  "description": "Creating, removing, search by word - ArticleManager with CoreData",
   "homepage": "https://github.com/khaniche/SDK-ArticleManager",
   "license": {
     "type": "MIT",
@@ -13,10 +13,16 @@
   },
   "source": {
     "git": "https://github.com/khaniche/SDK-ArticleManager.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "platforms": {
-    "ios": "9.0"
+    "ios": "13.0"
   },
-  "source_files": "SDK-ArticleManager/Classes/**/*"
+  "swift_versions": "5.0",
+  "source_files": "SDK-ArticleManager/Sources/**/*.swift",
+  "frameworks": [
+    "UIKit",
+    "CoreData"
+  ],
+  "swift_version": "5.0"
 }
